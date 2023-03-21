@@ -17,7 +17,7 @@
 'use strict'
 module.exports = {
   NODE_ENV: '"production"',
-  DW_API_URL: '"http://localhost:8080"',
-  DW_WEB_URL: '"http://localhost:8080"',
-  DW_RESOURCE_URL: '"http://localhost:8080"'
+  DW_API_URL: '"http://172.16.200.118:8555"',
+  DW_WEB_URL: '"http://172.16.200.118:8555"',
+  DW_RESOURCE_URL: '"http://172.16.200.118:8555"'
 }
